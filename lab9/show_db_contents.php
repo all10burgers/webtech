@@ -4,9 +4,9 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-$db_host="webtechassignment-server.mysql.database.azure.com";        //Change this
-$db_user="imyuwmalib";        //Change this
-$db_pass="OLI155UB4Z01O8RE$";        //Change this
+$db_host="lab8webtech-server.mysql.database.azure.com";        //Change this
+$db_user="zwshbjdfua";        //Change this
+$db_pass="5E423HLB148JL3K7$";        //Change this
 $db_name="z_url_set_1";     //Do not change
 
 $db_conn = new mysqli($db_host, $db_user, $db_pass, $db_name);
