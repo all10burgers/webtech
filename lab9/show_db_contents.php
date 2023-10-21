@@ -6,7 +6,7 @@ error_reporting(E_ALL);
 
 $db_host="webtechassign-server.mysql.database.azure.com";        //Change this
 $db_user="rootuser";        //Change this
-$db_pass=";}VuRJA"w!]C5uy";        //Change this
+$db_pass="ASDFyuio9";        //Change this
 $db_name="z_url_set_1";     //Do not change
 
 $db_conn = new mysqli($db_host, $db_user, $db_pass, $db_name);
