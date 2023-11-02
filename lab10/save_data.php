@@ -4,7 +4,7 @@ $firstname = $_POST["fname"];
 $lastname = $_POST["lname"];
 
 $data = "$firstname" + "$lastname";
-$filepath = 'D:\home\data.txt';
+$filepath = '~/clouddrive';
 
 $file = fopen($filepath,'a');
 
