@@ -1,6 +1,6 @@
 <?php
 
-$filePath = '~/clouddrive/data';
+$filePath = '~/clouddrive/data/data.txt';
 $namearray = file($filePath, FILE_IGNORE_NEW_LINES);
 
 echo '<table border="1">';
